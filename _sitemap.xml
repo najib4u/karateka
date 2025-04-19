@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>[%_PROJET_WEB_%]/FR/index.html</loc><lastmod>2023-01-10</lastmod></url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap><loc>[%_PROJET_WEB_%]/UK/sitemap.xml</loc><lastmod>2024-02-29</lastmod></sitemap>
+<sitemap><loc>[%_PROJET_WEB_%]/L19/sitemap.xml</loc><lastmod>2024-02-29</lastmod></sitemap></sitemapindex>
